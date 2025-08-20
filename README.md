@@ -3,7 +3,6 @@
 
 ### Tecnologias que utilizo no meu Dia a Dia 👇🏽👇🏽👇🏽
 
-<h1> PARA DE DEIXAR A CONTA LOGADA NO COMPUTADOR DA UMC NO PREDIO 3 DA SALA 8 BOBÃO</h1>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
